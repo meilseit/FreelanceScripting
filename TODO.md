@@ -1,6 +1,6 @@
-#TODO
+# TODO
 Keep track of what needs to be done on my end and and link to Documentation.md for explinations
-Backend
+### Backend
 - [ ] create django project 
 - [ ] set up models 
 - [ ] set up serializer 
